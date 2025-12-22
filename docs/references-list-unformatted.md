@@ -54,21 +54,54 @@ This file is a 1-page excerpt from the "Rolls of Connecticut men in the French a
 gettyimages-523516410-(the HMS Jersey) 
 * www.gettyimages.com/detail/news-photo/engraving-depicting-the-hms-jersey-a-60-gun-fourth-rate-news-photo/523516410
 
-maps of fort montgomery-NY-from LOC
+maps of fort montgomery-NY-from LOC (maps search)
+* https://www.loc.gov/collections/military-battles-and-campaigns/?q=forts+clinton+and+montgomery
 
-Maritime Connecticut during the Revolution
+Maritime Connecticut during the Revolution (a book), available from the Library of Congress
+Title: "History of Maritime Connecticut During the American Revolution 1775-1783"
+Author: Louis F. Middlebrook 
+Publication date: 1925 
+* https://archive.org/details/historyofmaritim0002loui
 
 Siege of Newport-Battle of Quaker Hill-Aug 1778
+A page from the American Battlefield Trust, at https://www.battlefields.org/learn/revolutionary-war/battles/rhode-island 
 
-Timothy Mix 1740-1824 death notice - US Newspaper extractions from the northeast 1704-1930
+Timothy Mix 1740-1824 death notice - US Newspaper extractions from the northeast 1704-1930 
+(there are multiple versions of the notice, as printed in at least 4 different newspapers)
 
-Timothy Mix-Lieutenant-The Line-Artillery-Second Regiment-(page 65)
+Timothy Mix-Lieutenant-The Line-Artillery-Second Regiment-(page 65) 
+This file is an excerpt from the book "New York in the Revolution as colony and state"
+Corporate Author: New York (State). Comptroller's Office. cn; Roberts, James A. (James Arthur), 1847-1922. 4n; Mather, Frederic Gregory, 1844-1925. 4n 
+Publication date: 1898 
+Publisher: Albany, N.Y. : Press of Brandow Print. Co. 
+* https://archive.org/details/newyorkinrevolut01innewy
 
 title page - US Newspaper extractions from the northeast 1704-1930
 
-UK Archives at Kew-Captured ship_Young Cromwell-1781
+UK Archives at Kew-Captured ship_Young Cromwell-1781.
+Note: "When captured, Young Cromwell had 36 men on board (including officers) and was equipped with 12 cannons, 
+all 3-pounders. (UK Archives, RC7020130, HCA 32/490/26, Deposition of Commander John Cook). News article in 
+New London Gazette 03 May 1782 lists 18 of the crew who died aboard a prison ship."
+* https://threedecks.org/index.php?display_type=show_ship&id=14981
+
+That link further references a book from archive.org, (see page 495). This page of "Naval Records of the Revolution"
+lists essential ship information for the Young Cromwell, a Connecticut schooner with 12 guns and 45 crew, dated November 6, 1781
+* https://archive.org/details/navalrecordsrev00congrich/page/n3/mode/2up
 
 Artillery Regiments in the Continental Army • American Revolutionary War-(see pages 6-7)
+The named file is a printout dated April 17, 2022, from https://revolutionarywar.us/continental-army/artillery-regiments/
+verified available 22 December 2025. 
+Pages 6-7 of the printout give information about "2nd Continental Artillery Regiment (aka Lamb's Continental Artillery Regiment)"
+
+The page listed abovce mentions the Battle of Springfield (1780)
+Apparently this battle took place in New Jersey.
+I checked to see if the "Springfield Laboratory" had anything to do with Springfield NJ, but it does not. 
+Here is some additional information about the Springfield Laboratory:
+* http://chc.library.umass.edu/state-archives/2017/04/21/logbooks-of-the-springfield-laboratory-massachusetts-commissary-general/
+* (in Springfield Massachusetts)
+* Another link - https://researchworks.oclc.org/archivegrid/collection/data/79664017
+* and some more info about the Apringfield Laboratory
+* https://historycarper.com/1982/05/01/the-continental-army-chapter-v/3/
 
 Connecticut Soldiers, French and Indian War, 1755-62 - Ancestry.com-Detail-04172022
 
@@ -77,6 +110,7 @@ Mix, Timothy-from Fold3-81 pages of Compiled Service Records for Timothy Mix
 Page 1 - Index to Selected Final Payment Vouchers, 1818-1864
 
 Timothy Mix 1824 obit-(newspapers_com)
+(there are multiple versions of the notice, as printed in at least 4 different newspapers)
 
 U.S., Revolutionary War Rolls, 1775-1783 - Ancestry_com-(Lt Timothy Mix)-1775 first record-(details of record)
 
@@ -88,13 +122,16 @@ U.S., Revolutionary War Rolls, 1775-1783 - Ancestry_com-(Lt Timothy Mix)-1775 fi
 
 Legislative Acts_Legal Proceedings-0406-1792
 
-Mortuary Notice-Boston Weekly Messenger-Jul 01 1824
+Mortuary Notice-Boston Weekly Messenger-Jul 01 1824 
+* (there are multiple versions of the notice, as printed in at least 4 different newspapers)
 
 Mortuary Notice-Boston-Columbian Centinel-Jun 23 1824
+* (there are multiple versions of the notice, as printed in at least 4 different newspapers)
 
 Mortuary Notice-Boston-Independent Chronicle and Boston Patriot-June 23 1824
 
 Mortuary Notice-Hartford Ct, Connecticut Courant-June 22 1824
+* (there are multiple versions of the notice, as printed in at least 4 different newspapers)
 
 Norwich, May 2-(Death of Timothy Mixs son on prison ship-1782)
 
